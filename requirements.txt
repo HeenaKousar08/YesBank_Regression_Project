@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+scikit-learn
+joblib
+plotly
+yfinance
+shap
+textblob
+tensorflow
+Pillow
+xgboost
+fpdf
